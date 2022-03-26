@@ -1,5 +1,6 @@
 # kodluyoruzilkrepo
 Kodluyoruz Eğitimi kapsamında açtığım ilk repo
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
