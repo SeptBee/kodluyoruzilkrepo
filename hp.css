@@ -1,0 +1,112 @@
+body{
+
+    background-color: #e6e2d3;
+}
+
+h1,h2{
+
+    color: #034f84;
+    font-family: 'Rubik Moonrocks', cursive;
+    text-align: center;
+    margin-top: 10px;
+    
+}
+
+.menu ul li{
+
+    display:inline;
+    text-align: center;
+    padding: 10px;
+    
+    
+  
+}
+
+.menu ul{
+
+    padding: 10px;
+}
+
+.menu{
+
+    color: bisque;
+    text-align: center;
+   
+}
+
+p{
+    text-align: center;
+    font-family: 'Shadows Into Light', cursive;
+    color: #034f84;
+    font-size: x-large;
+   
+}
+
+footer ul li{
+
+    display:inline;
+    text-align: center;
+    padding: 10px;
+      
+}
+
+footer ul{
+
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+footer{
+
+    text-align: center;
+    height: 70px;
+    margin-bottom: 15px;
+}
+
+.alt{
+
+margin-top: 600px;   
+
+}
+
+
+.box{
+
+   
+    width: 1200px auto;
+    height: 600px;
+    display: flex;
+    justify-content: center;
+    justify-content: space-evenly;
+}
+
+.ser{
+
+    width: 1200px auto;
+    height: 300px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+
+}
+
+.apoint{
+
+    text-align: left;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif, cursive;
+    color: #034f84;
+    font-size: large;
+    height: 500px;
+    padding-left: 30px;
+    padding-top: 150px;
+   
+}
+
+.about{
+
+    width: auto;
+    height: 400px;
+    text-align: center;
+    margin-top: 150px;
+
+

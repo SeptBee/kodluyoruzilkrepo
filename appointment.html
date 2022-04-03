@@ -42,26 +42,26 @@
     <!-- Content Start -->
     <section>
         <!-- Article Start -->
-        <article>
-             <p>
-                 <strong>Paws evcil hayvan bakım servisine hoşgeldiniz. Tüylü dostlarımızın bakımı için  
-                 </strong>  <a href="appointment.html">Randevu Al</a> sayfamızdan randevu alabilirsiniz. 
-            </p>
-             <br>
-             <br>
-             <h2>İlgilendiğimiz Tüylü Dostlarımız</h2>
-             <div class="box">
-                 <div class="dog">
-                     <h2>Köpek</h2>
-                     <img src="./pics/dog.jpeg" style="width: 500px; height: 300px;" alt="dogimage">
-                 </div>
-                 <div class="kedi">
-                     <h2>Kedi</h2>
-                    <img src="./pics/cat.jpeg" style="width: 500px; height: 300px;" alt="catimage">
-                 </div>
-
-             </div>
-        </article>
+            <div class="apoint">
+                <form>
+                Pet Adı:
+                <input type="text">
+                <br>
+                Sorumlu Kişinin Adı Soyadı:
+                <input type="text">
+                <br>
+                İşlem:
+                <select name="islem" id="islem">
+                    <option value="wash">Yıkama</option>
+                    <option value="cut">Traş</option>
+                    <option value="train">Eğitim</option>
+                    <option value="hotel">Konaklama</option>
+                </select>
+                <br>
+                Tarih
+                <input type="date" data-role="calendarpicker">
+                </form>
+            </div>
         <!-- Article End -->
     </section>
 
