@@ -1,0 +1,124 @@
+
+.logo{
+
+
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width:fit-content
+
+}
+
+.topnav{
+
+  width: 1350px;
+  height: 75px;
+  margin-left:40px;
+
+}
+
+.topnav p{
+
+  text-align: center;
+  margin: 0px;
+  
+}
+
+.topnav {   
+  overflow: hidden;
+  background-color: #e9e9e9;
+
+}
+  
+
+.topnav {
+
+  color: black;
+  text-decoration: none;
+  font-size: 16px;
+  width: 1350px;
+  height: fit-content; 
+  
+}
+
+.topnav input{
+
+  border: 1px solid black;
+  background-color: white;
+  border-radius: 2px;
+
+}
+
+ 
+.topnav input:hover {
+
+  background-color: #ccc;
+  color: black;
+}
+  
+.topnav input.active {
+
+  color: white;
+  background-color: #ccc;
+}
+.topnav .search{
+
+  margin-left: 569px;
+  margin-top: -3px;
+  
+}  
+.topnav .luck{
+
+  margin-left: 665px;
+  margin-top: -24px;
+   
+}
+
+  .box{
+ 
+    width: 1350px;
+    height: 65px;
+    margin-left: 40px;
+    display: flex;
+    margin-top: 5px;
+  
+  }
+  
+  .box1{
+
+    width: 550px;
+    height: 80px;
+    background-color: rgb(88, 219, 202);
+    text-align: center;
+    text-emphasis-position: 5px;
+    margin-right: 3px;
+  }
+
+  .box2{
+
+    width: 300px;
+    height: 80px;
+    background-color: rgb(58, 195, 193);
+    text-align: center;
+    margin-right: 3px;
+    
+  }
+  .box3{
+
+    width: 550px;
+    height: 80px;
+    background-color: rgb(16, 188, 177);
+    text-align: center;
+  }
+
+  p{
+
+    margin: 0px;
+  }
+
+  footer{
+
+    text-align: center;
+    margin-top: 90px;
+
+  }
